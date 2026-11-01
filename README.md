@@ -160,17 +160,6 @@ joblib
 
 ---
 
-## 🌐 Deployment
-
-You can easily deploy this app for free on:
-
-- [Streamlit Community Cloud](https://share.streamlit.io)
-- Hugging Face Spaces
-- Render / Railway / Fly.io
-
-Just push the repository (including the two `.joblib` files) and point the platform to `app.py`.
-
----
 
 ## ⚠️ Disclaimer
 
