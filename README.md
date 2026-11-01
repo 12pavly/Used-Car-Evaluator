@@ -57,7 +57,7 @@ This project scrapes / uses publicly available used-car listings, performs thoro
 ├── requirements.txt           # Dependencies
 ├── xgb_pipeline.joblib        # Trained pipeline (generate this)
 ├── brand_stats.joblib         # Brand medians for Luxury_Score
-├── hatla2ee_scraped_data.csv  # Raw dataset (not included in repo)
+├── hatla2ee_scraped_data.csv  # Raw dataset 
 └── README.md
 ```
 
